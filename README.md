@@ -1,3 +1,25 @@
+# Google-Clone
+
+Checkout Preview of this project [here](https://google-clone-nu.vercel.app/)
+
+In this project I use NextJS, Tailwind CSS and google APIs;
+
+## Installation
+
+Clone this repo then
+Create an .env file and add the following
+
+```
+API_KEY=Your API key
+CONTEXT_KEY=Your Context key
+```
+
+get keys from here
+
+- API key = [here](https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key)
+
+- Context key = [here](https://cse.google.com/cse/create/new)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
